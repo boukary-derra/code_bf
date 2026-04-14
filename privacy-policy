@@ -98,7 +98,7 @@ L'application peut afficher des publicites internes (promotions de nos services 
 
 - Votre profil et vos scores sont conserves tant que vous utilisez l'application.
 - Les codes d'activation utilises sont conserves indefiniment pour empecher la reutilisation.
-- Vous pouvez demander la suppression de vos donnees en nous contactant (voir section 11).
+- Vous pouvez demander la suppression de vos donnees en nous contactant (voir section 12).
 
 ---
 
@@ -119,17 +119,42 @@ Conformement a la legislation du Burkina Faso, vous disposez des droits suivants
 - **Suppression** : Demander la suppression de votre compte et de vos donnees
 - **Opposition** : Desactiver les notifications push dans les parametres de votre appareil
 
-Pour exercer ces droits, contactez-nous (voir section 11).
+Pour exercer ces droits, contactez-nous (voir section 12).
 
 ---
 
-## 10. Modifications de cette politique
+## 10. Suppression de compte et de vos donnees
+
+### Comment demander la suppression de votre compte
+
+Si vous souhaitez supprimer votre compte Faso Sira et les donnees associees, envoyez un email a **ciri.inov@gmail.com** avec l'objet **"Suppression de compte Faso Sira"** en indiquant votre nom d'utilisateur (si vous en avez un).
+
+Nous traiterons votre demande dans un delai de **30 jours**.
+
+### Donnees supprimees
+
+- Profil utilisateur (nom d'utilisateur, avatar, ville)
+- Historique de scores et classements
+- Identifiant Firebase Anonymous Auth
+
+### Donnees conservees apres suppression
+
+- Codes d'activation utilises : conserves indefiniment pour empecher la reutilisation (aucun lien avec votre identite)
+- Donnees analytiques anonymisees agregees : conservees (non liees a votre compte)
+
+### Donnees stockees localement
+
+Les donnees stockees sur votre appareil (progression, cache PDF/images) peuvent etre supprimees manuellement en desinstallant l'application.
+
+---
+
+## 11. Modifications de cette politique
 
 Nous pouvons mettre a jour cette Politique de Confidentialite. En cas de modification significative, nous vous en informerons via une notification dans l'application. La date de derniere mise a jour est indiquee en haut de ce document.
 
 ---
 
-## 11. Nous contacter
+## 12. Nous contacter
 
 Pour toute question concernant cette Politique de Confidentialite :
 
@@ -139,6 +164,6 @@ Pour toute question concernant cette Politique de Confidentialite :
 
 ---
 
-## 12. Droit applicable
+## 13. Droit applicable
 
 Cette Politique de Confidentialite est regie par les lois du Burkina Faso. Tout litige relatif a l'utilisation de l'application sera soumis a la juridiction competente du Burkina Faso.
